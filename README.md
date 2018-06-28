@@ -406,7 +406,7 @@ export function fetchProducts () {
 
 #### Boilerplate
 
-Getting Redux set up by hand is a time consuming task and is close to the same every single time.  For that reason, there are several boilerplates available online.  [Here](https://git.generalassemb.ly/jamieking/redux-boilerplate) is one from GA Atlanta that gets you started with the basics without adding a bunch of features that you don't need right off the bat.
+Getting Redux set up by hand is a time consuming task and is close to the same every single time.  For that reason, there are several boilerplates available online.  [Here](https://git.generalassemb.ly/SF-WDI/redux-boilerplate) is one that gets you started with the basics without adding a bunch of features that you don't need right off the bat.
 
 ## Further Reading:
 
