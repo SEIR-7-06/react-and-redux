@@ -101,7 +101,7 @@ registerServiceWorker()
 
 4. **Set Up The Redux Store**: The function we created earlier called `configureStore` is going to hold the logic that connects our store to our reducers and any additional middleware (more on that tomorrow)
 
-For now, the only middleware we want to add is the Redux Devtools Extension.  If you take a look at the docs, it will show you how to quickly and easily and the dev tools to a Redux store.
+For now, the only middleware we want to add is the Redux Devtools Extension.  If you take a look at the docs, it will show you how to quickly and easily add the dev tools to a Redux store.
 
 Additionally, we will import the reducers we will make soon.  Notice here that our import path is only `./reducers` instead of `./reducers/index`.  This is just a small shortcut that you can take with JavaScript.  If no file name is given, JavaScript will just use the file within the directory called `index`
 
