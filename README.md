@@ -42,7 +42,7 @@ Today we are going to build a basic to-do application, but focus in on the boile
 
 ### We Do: Clone the starter code and download the Redux Dev Tools
 
-For the sake of time, we are going to start out with some of our code already completed.  [Redux Todo List](https://git.generalassemb.ly/sf-wdi/redux-todo-list) is an app with a few components already set up for you.  Clone this repo and start to review the code we have in here currently. Is there anything that doesn't look familiar to you?
+For the sake of time, we are going to start out with some of our code already completed.  [Redux Todo List](https://git.generalassemb.ly/sf-wdi-46/redux-todo-list) is an app with a few components already set up for you.  Clone this repo and start to review the code we have in here currently. Is there anything that doesn't look familiar to you?
 
 Additionally, go ahead and download the [Redux Dev Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en).  We are going to be using this tool often to track the state changes in our app.
 
@@ -101,7 +101,7 @@ registerServiceWorker()
 
 4. **Set Up The Redux Store**: The function we created earlier called `configureStore` is going to hold the logic that connects our store to our reducers and any additional middleware (more on that tomorrow)
 
-For now, the only middleware we want to add is the Redux Devtools Extension.  If you take a look at the docs, it will show you how to quickly and easily and the dev tools to a Redux store.
+For now, the only middleware we want to add is the Redux Devtools Extension.  If you take a look at the docs, it will show you how to quickly and easily add the dev tools to a Redux store.
 
 Additionally, we will import the reducers we will make soon.  Notice here that our import path is only `./reducers` instead of `./reducers/index`.  This is just a small shortcut that you can take with JavaScript.  If no file name is given, JavaScript will just use the file within the directory called `index`
 
