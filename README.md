@@ -42,7 +42,7 @@ Today we are going to build a basic to-do application, but focus in on the boile
 
 ### We Do: Clone the starter code and download the Redux Dev Tools
 
-For the sake of time, we are going to start out with some of our code already completed.  [Redux Todo List](https://git.generalassemb.ly/SF-WDI/redux-todo-list) is an app with a few components already set up for you.  Clone this repo and start to review the code we have in here currently. Is there anything that doesn't look familiar to you?
+For the sake of time, we are going to start out with some of our code already completed.  [Redux Todo List](https://git.generalassemb.ly/SF-SEI/redux-todo-list) is an app with a few components already set up for you.  Clone this repo and start to review the code we have in here currently. Is there anything that doesn't look familiar to you?
 
 Additionally, go ahead and download the [Redux Dev Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en).  We are going to be using this tool often to track the state changes in our app.
 
